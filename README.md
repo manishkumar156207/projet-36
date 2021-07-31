@@ -1,2 +1,2 @@
-# projet-36
-project 36
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
